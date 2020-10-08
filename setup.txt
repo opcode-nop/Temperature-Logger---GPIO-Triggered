@@ -1,0 +1,2 @@
+wget https://bitbucket.org/MattHawkinsUK/rpispy-misc/raw/master/python/bme280.py
+sudo apt-get install python3-smbus
